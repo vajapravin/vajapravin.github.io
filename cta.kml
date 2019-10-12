@@ -81,7 +81,6 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Pink Line</name>
       <styleUrl>#redLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
@@ -102,13 +101,11 @@
           0.406078,51.678284,0
           0.446217,51.709049,0
           0.468353,51.736144,0
-          0.500316,51.746798,0
         </coordinates>
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Pink Line</name>
-      <styleUrl>#blueLine</styleUrl>
+      <styleUrl>#redLine</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
@@ -137,16 +134,6 @@
           1.096691,52.010313,0
           1.138066,52.028720,0
           1.149373,52.037579,0
-          1.150542,52.046684,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>Pink Line</name>
-      <styleUrl>#redLine</styleUrl>
-      <LineString>
-        <altitudeMode>relative</altitudeMode>
-        <coordinates>
           1.150542,52.046684,0
           1.0144324,52.050498,0
           1.139670,52.051594,0
