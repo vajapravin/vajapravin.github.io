@@ -15,49 +15,12 @@
         <width>4</width>
       </LineStyle>
     </Style>
-    <Style id="redLine">
+    <Style id="lightBlueLine">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>5672ef</color>
         <width>4</width>
       </LineStyle>
     </Style>
-    <Style id="greenLine">
-      <LineStyle>
-        <color>ff009900</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="orangeLine">
-      <LineStyle>
-        <color>ff00ccff</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="pinkLine">
-      <LineStyle>
-        <color>ffff33ff</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="brownLine">
-      <LineStyle>
-        <color>ff66a1cc</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="purpleLine">
-      <LineStyle>
-        <color>ffcc00cc</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="yellowLine">
-      <LineStyle>
-        <color>ff61f2f2</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-
     <Placemark>
       <name>Blue Line</name>
       <styleUrl>#blueLine</styleUrl>
@@ -99,6 +62,15 @@
           0.322511,51.618084,0
           0.330573,51.630714,0
           0.384439,51.666924,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pink Line</name>
+      <styleUrl>#pinkLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
           0.406078,51.678284,0
           0.446217,51.709049,0
           0.468353,51.736144,0
@@ -121,6 +93,15 @@
           1.007933,51.937934,0
           1.044686,51.949388,0
           1.071577,51.956648,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pink Line</name>
+      <styleUrl>#lightBlueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
           1.080964,51.963940,0
           1.084375,51.980933,0
           1.091244,52.001359,0
@@ -137,6 +118,15 @@
           1.100645,52.091280,0
           1.100715,52.105826,0
           1.097750,52.113894,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pink Line</name>
+      <styleUrl>#pinkLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
           1.091688,52.121081,0
           1.081969,52.131027,0
           1.066939,52.146004,0
@@ -150,6 +140,15 @@
           0.994172,52.197432,0
           0.993409,52.204356,0
           0.986958,52.222086,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pink Line</name>
+      <styleUrl>#pinkLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
           0.988162,52.233274,0
           1.002173,52.249139,0
           1.014156,52.262161,0
@@ -163,6 +162,15 @@
           1.185619,52.472601,0
           1.197621,52.494601,0
           1.207808,52.512429,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pink Line</name>
+      <styleUrl>#lightBlueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
           1.221262,52.521523,0
           1.232845,52.528902,0
           1.253866,52.543897,0
