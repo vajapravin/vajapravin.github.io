@@ -77,6 +77,15 @@
           -0.003966,51.541862,0
           -0.000244,51.544112,0
           0.006351,51.5463318,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Pink Line</name>
+      <styleUrl>#pinkLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
           0.025022,51.549818,0
           0.046747,51.552185,0
           0.069839,51.559436,0
